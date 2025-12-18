@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1766046503 source:c:\users\ah\desktop\osproject\os project\server chat socket and multithreading\resource.rc
+	"resource.h"
+
+1766046594 c:\users\ah\desktop\osproject\os project\server chat socket and multithreading\resource.h
+
+1766045856 source:c:\users\ah\desktop\osproject\os project\client chat socket and multithreading\main.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string>
+	"resource.h"
+
+1766046186 c:\users\ah\desktop\osproject\os project\client chat socket and multithreading\resource.h
+
+1766046686 source:c:\users\ah\desktop\osproject\os project\client chat socket and multithreading\resource.rc
+	"resource.h"
+

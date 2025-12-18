@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1765138426 source:c:\users\elatty\desktop\onee\8989\main.cpp
+	<windows.h>
+	<string>
+	<cstdio>
+
+1766048312 source:c:\users\ah\desktop\osproject\os project\shared memory server\main.cpp
+	<windows.h>
+	<string>
+	<thread>
+	"resource.h"
+
+1766046408 source:c:\users\ah\desktop\osproject\os project\shared memory server\resource.rc
+	"resource.h"
+
+1766046558 c:\users\ah\desktop\osproject\os project\shared memory server\resource.h
+
